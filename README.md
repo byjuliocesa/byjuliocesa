@@ -22,8 +22,8 @@ Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian pr
 
 - **[how-i-build](https://how-i-build.byjuliocesa.dev)**: Bilingual engineering notes and case studies, written in MDX.
 - **[keepalive](https://keepalive.byjuliocesa.dev)**: Keeps free-tier services awake and publishes their pings on a public status page.
-- **[CHIP-8 Emulator](https://github.com/Julio0Cesar/chip8-emulator)**: A complete CHIP-8 emulator in C that runs classic games.
-- **[Invoice Issuing API](https://github.com/Julio0Cesar/nf-emition-system)**: REST API for customers, products and Brazilian electronic invoices.
+- **[CHIP-8 Emulator](https://github.com/byjuliocesa/chip8-emulator)**: A complete CHIP-8 emulator in C that runs classic games.
+- **[Invoice Issuing API](https://github.com/byjuliocesa/nf-emition-system)**: REST API for customers, products and Brazilian electronic invoices.
 
 </details>
 
