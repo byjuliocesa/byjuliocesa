@@ -6,7 +6,7 @@
 
 Full-stack software engineer who starts from the business problem. Proposed and led the rewrite of four legacy systems into a single ERP, and built in one week a kiosk app now running in 100+ retail stores. I lean towards the backend, and I'm drawn to game engines, embedded and distributed systems, and Rust.
 
-[Portfolio](https://byjuliocesa.dev) · [LinkedIn](https://www.linkedin.com/in/byjuliocesa/) · [julio@byjuliocesa.com](mailto:julio@byjuliocesa.com) · [Résumé (PDF)](https://byjuliocesa.dev/resume/en)
+[Portfolio](https://byjuliocesa.dev) · [LinkedIn](https://www.linkedin.com/in/byjuliocesa/) · [julio@byjuliocesa.dev](mailto:julio@byjuliocesa.dev) · [Résumé (PDF)](https://byjuliocesa.dev/resume/en)
 
 ### Now
 
