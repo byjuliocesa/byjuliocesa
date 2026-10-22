@@ -3,10 +3,10 @@
 <a href="https://byjuliocesa.dev"><img src="https://byjuliocesa.dev/readme-banner.jpg" alt="" width="100%" /></a>
 
 <p align="center">
-  <a href="https://byjuliocesa.dev"><img src="https://img.shields.io/badge/Portfolio-245edb?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/byjuliocesa/"><img src="https://img.shields.io/badge/LinkedIn-245edb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://byjuliocesa.dev"><img src="https://img.shields.io/badge/Portfolio-245edb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDRoMjB2MTZIMnptMiA0djEwaDE2Vjh6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/byjuliocesa/"><img src="https://img.shields.io/badge/LinkedIn-245edb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDNhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00ek0yLjUgOWgzdjEyaC0zem02IDBoMi45djEuN2MuNS0uOSAxLjctMiAzLjYtMiAzLjYgMCA0LjMgMi40IDQuMyA1LjRWMjFoLTN2LTYuMWMwLTEuNSAwLTMuMy0yLTMuM3MtMi4zIDEuNi0yLjMgMy4yVjIxaC0zeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact@byjuliocesa.dev"><img src="https://img.shields.io/badge/E--mail-245edb?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://byjuliocesa.dev/cv/Julio-Cesar-Oliveira-Rios-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-245edb?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
+  <a href="https://byjuliocesa.dev/cv/Julio-Cesar-Oliveira-Rios-Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-245edb?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02IDJoOGw1IDV2MTVINnptNyAxLjVWOGg0LjV6TTggMTJoOHYxLjVIOHptMCAzaDh2MS41SDh6bTAgM2g1djEuNUg4eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Résumé" /></a>
 </p>
 
 Full-stack software engineer with infrastructure experience. I led the replacement of four legacy systems with a single ERP and took part in moving the infrastructure to Kubernetes. I also shipped, in one week, a self-service kiosk app that now runs in 100+ retail stores.
