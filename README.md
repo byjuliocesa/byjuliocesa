@@ -11,8 +11,6 @@
 
 Full-stack software engineer with infrastructure experience. I led the replacement of four legacy systems with a single ERP and took part in moving the infrastructure to Kubernetes. I also shipped, in one week, a self-service kiosk app that now runs in 100+ retail stores.
 
-**Now:** Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present).
-
 <details>
 <summary>Stack</summary>
 
