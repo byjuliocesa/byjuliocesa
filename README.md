@@ -1,6 +1,6 @@
 <!-- Generated from the content folder of the portfolio repo by scripts/github-readme.mts. Edit it there, not here. -->
 
-<a href="https://byjuliocesa.dev"><img src="https://byjuliocesa.dev/readme-banner.svg" alt="Júlio César Oliveira Rios, Software Engineer · Full-Stack & SRE" width="100%" /></a>
+<a href="https://byjuliocesa.dev"><img src="https://byjuliocesa.dev/readme-banner.jpg" alt="" width="100%" /></a>
 
 <p align="center">
   <a href="https://byjuliocesa.dev"><img src="https://img.shields.io/badge/Portfolio-245edb?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio" /></a>
@@ -13,40 +13,8 @@ Full-stack software engineer with infrastructure experience. I led the replaceme
 
 **Now:** Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present).
 
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://lyricslens.byjuliocesa.dev"><img src="https://byjuliocesa.dev/projects/logos/lyricslens.png" alt="" height="40" align="left" /></a>
-<a href="https://lyricslens.byjuliocesa.dev"><b>LyricsLens</b></a><br />
-<sub>Rust · GTK4 · wlr-layer-shell</sub>
-<p>Synced lyrics floating over any window on Linux, even full-screen video.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://orbit.byjuliocesa.dev"><img src="https://byjuliocesa.dev/projects/logos/orbit.svg" alt="" height="40" align="left" /></a>
-<a href="https://orbit.byjuliocesa.dev"><b>Orbit</b></a><br />
-<sub>Go · PostgreSQL · Next.js · Tauri</sub>
-<p>Personal finance with Open Finance bank sync and AI, on web, desktop and mobile.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://how-i-build.byjuliocesa.dev"><img src="https://byjuliocesa.dev/projects/logos/how-i-build.svg" alt="" height="40" align="left" /></a>
-<a href="https://how-i-build.byjuliocesa.dev"><b>how-i-build</b></a><br />
-<sub>Next.js · Tailwind CSS · Bun · MDX</sub>
-<p>Bilingual engineering notes and case studies, written in MDX.</p>
-</td>
-<td width="50%" valign="top">
-<a href="https://keepalive.byjuliocesa.dev"><img src="https://byjuliocesa.dev/projects/logos/keepalive.svg" alt="" height="40" align="left" /></a>
-<a href="https://keepalive.byjuliocesa.dev"><b>keepalive</b></a><br />
-<sub>TypeScript · Cloudflare Workers · Cron Triggers · Workers KV</sub>
-<p>Keeps free-tier services awake and publishes their pings on a public status page.</p>
-</td>
-</tr>
-</table>
-
-### Stack
+<details>
+<summary>Stack</summary>
 
 <p>
 <b>Languages</b><br />
@@ -102,8 +70,11 @@ Full-stack software engineer with infrastructure experience. I led the replaceme
 
 <p>
 <b>Desktop & mobile</b><br />
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tauri/tauri-original.svg" alt="Tauri" title="Tauri" height="28" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tauri/tauri-original.svg" alt="Tauri" title="Tauri" height="28" />&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg" alt="Expo/React Native" title="Expo/React Native" height="28" />
 </p>
+
+</details>
 
 <details>
 <summary>Education</summary>
@@ -117,7 +88,7 @@ Full-stack software engineer with infrastructure experience. I led the replaceme
 
 ### Outside of work
 
-<img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" alt="Cat typing on a computer" width="180" align="right" />
+<img src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" alt="Cat typing on a computer" width="300" align="right" />
 
 Outside of work, I run tabletop RPG sessions, organizing weekly campaigns with players. I enjoy building systems, writing universes and improvising during the sessions. I also like cooking, and eyeballing the seasoning is one of my favorite pastimes.
 
