@@ -2,9 +2,9 @@
 
 ## Hi, I'm Júlio César
 
-**Full-Stack Software Engineer** · Salvador, Brazil
+**Software Engineer · Full-Stack & SRE** · Salvador, Brazil
 
-Full-stack software engineer who starts from the business problem. Proposed and led the rewrite of four legacy systems into a single ERP, and built in one week a kiosk app now running in 100+ retail stores. I lean towards the backend, and I'm drawn to game engines, embedded and distributed systems, and Rust.
+Full-stack software engineer with infrastructure experience. I led the replacement of four legacy systems with a single ERP and took part in moving the infrastructure to Kubernetes. I also shipped, in one week, a self-service kiosk app that now runs in 100+ retail stores. I work from code to deploy: TypeScript and Go on the backend, Kubernetes and CI/CD on the infrastructure side. Currently learning Rust.
 
 [Portfolio](https://byjuliocesa.dev) · [LinkedIn](https://www.linkedin.com/in/byjuliocesa/) · [contact@byjuliocesa.dev](mailto:contact@byjuliocesa.dev) · [Résumé (PDF)](https://byjuliocesa.dev/resume/en)
 
@@ -39,6 +39,7 @@ Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian pr
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vuejs/vuejs-original.svg" alt="Vue" title="Vue" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/bun/bun-original.svg" alt="Elysia/Bun" title="Elysia/Bun" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32" />
@@ -47,6 +48,7 @@ Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian pr
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/argocd/argocd-original.svg" alt="ArgoCD" title="ArgoCD" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" title="DigitalOcean" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="32" />
