@@ -10,7 +10,7 @@ Full-stack software engineer with infrastructure experience. I led the replaceme
 
 ### Now
 
-Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian premium tech-accessories retailer: own-label audio, bags and lifestyle products, plus device warranty and repair, across 100+ mall stores and kiosks and online.
+Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian premium tech-accessories retailer: own-label audio, bags and lifestyle products, plus device warranty and repair, across 100+ stores and kiosks in Brazil and online.
 
 ### Featured projects
 
