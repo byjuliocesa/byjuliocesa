@@ -52,6 +52,10 @@ Full-Stack Software Engineer at **VX Case** (Oct 2025 – Present). Brazilian pr
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original.svg" alt="Kibana" title="Kibana" height="32" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tauri/tauri-original.svg" alt="Tauri" title="Tauri" height="32" />
 </p>
 
