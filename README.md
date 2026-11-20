@@ -78,8 +78,8 @@ Full-stack software engineer with infrastructure experience. I led the replaceme
 <summary>Education</summary>
 
 - B.Sc. Computer Science, UNIFACS (Expected Dec 2026)
-- B.Sc. Computer Science, Federal University of Bahia (UFBA) (Expected Dec 2029)
-- Technical Degree, Systems Analysis and Development, SENAI CIMATEC (2022 – 2024)
+- B.Sc. Computer Science, Federal University of Bahia (UFBA) (Expected Dec 2030)
+- Technical Degree, Systems Analysis and Development, SENAI CIMATEC (2021 – 2022)
 - Certificate, Functional Programming with Lisp, Federal University of Bahia (UFBA) (2023)
 
 </details>
